@@ -7,6 +7,7 @@ This repository contains the official Python implementation of the **Pioneer Det
 *Insurance Supervision under Climate Change: A Pioneer Detection Method.*  
 *The Geneva Papers on Risk and Insurance – Issues and Practice.*  
 https://doi.org/10.1057/s41288-025-00367-y
+
 Open access versions:
 https://dx.doi.org/10.2139/ssrn.5012810
 
